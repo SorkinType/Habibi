@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1877"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="1764" y="1508" type="line" name="hr01"/>
+      <point x="800" y="1508" type="line"/>
+      <point x="800" y="1423" type="line"/>
+      <point x="917" y="1404" type="line"/>
+      <point x="155" y="108" type="line"/>
+      <point x="-7" y="85" type="line"/>
+      <point x="-7" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="386" y="85" type="line"/>
+      <point x="281" y="108" type="line"/>
+      <point x="555" y="577" type="line"/>
+      <point x="949" y="577" type="line"/>
+      <point x="949" y="108" type="line"/>
+      <point x="798" y="85" type="line"/>
+      <point x="798" y="0" type="line"/>
+      <point x="1779" y="0" type="line"/>
+      <point x="1809" y="297" type="line"/>
+      <point x="1737" y="297" type="line"/>
+      <point x="1663" y="120" type="line"/>
+      <point x="1135" y="120" type="line"/>
+      <point x="1135" y="723" type="line" name="hr02"/>
+      <point x="1492" y="723" type="line"/>
+      <point x="1522" y="618" type="line"/>
+      <point x="1593" y="618" type="line"/>
+      <point x="1593" y="949" type="line"/>
+      <point x="1522" y="949" type="line"/>
+      <point x="1492" y="843" type="line"/>
+      <point x="1135" y="843" type="line"/>
+      <point x="1135" y="1387" type="line"/>
+      <point x="1647" y="1387" type="line"/>
+      <point x="1701" y="1211" type="line"/>
+      <point x="1786" y="1211" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="695" type="line" name="hr03"/>
+      <point x="728" y="881"/>
+      <point x="843" y="1074"/>
+      <point x="949" y="1260" type="curve"/>
+      <point x="949" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="-170" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="936" y="0" type="move" name="og"/>
+    </contour>
+    <contour>
+      <point x="1020" y="1700" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

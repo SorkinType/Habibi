@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.cap" format="1">
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="-26" y="1877" type="curve" smooth="yes" name="hr01"/>
+      <point x="-26" y="1825"/>
+      <point x="54" y="1757"/>
+      <point x="94" y="1757" type="curve" smooth="yes"/>
+      <point x="144" y="1757"/>
+      <point x="216" y="1827"/>
+      <point x="216" y="1877" type="curve" smooth="yes"/>
+      <point x="216" y="1926"/>
+      <point x="146" y="2000"/>
+      <point x="94" y="2000" type="curve" smooth="yes"/>
+      <point x="45" y="2000"/>
+      <point x="-26" y="1922"/>
+    </contour>
+    <contour>
+      <point x="351" y="1877" type="curve" smooth="yes"/>
+      <point x="351" y="1825"/>
+      <point x="431" y="1757"/>
+      <point x="471" y="1757" type="curve" smooth="yes"/>
+      <point x="521" y="1757"/>
+      <point x="593" y="1827"/>
+      <point x="593" y="1877" type="curve" smooth="yes"/>
+      <point x="593" y="1926"/>
+      <point x="523" y="2000"/>
+      <point x="471" y="2000" type="curve" smooth="yes"/>
+      <point x="422" y="2000"/>
+      <point x="351" y="1922"/>
+    </contour>
+    <contour>
+      <point x="283" y="1700" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

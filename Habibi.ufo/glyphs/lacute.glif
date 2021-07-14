@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="1">
+  <advance width="513"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="362" y="1530" type="line" name="hr01"/>
+      <point x="70" y="1456" type="line"/>
+      <point x="70" y="1375" type="line"/>
+      <point x="200" y="1350" type="line"/>
+      <point x="200" y="106" type="line" name="hr02"/>
+      <point x="70" y="83" type="line" name="hr03"/>
+      <point x="70" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="83" type="line"/>
+      <point x="362" y="106" type="line" name="hr04"/>
+    </contour>
+    <component base="acute" xOffset="-40" yOffset="398"/>
+  </outline>
+</glyph>

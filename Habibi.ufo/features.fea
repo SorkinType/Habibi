@@ -1,0 +1,64 @@
+@OLDSTYLE_FIGURES = [ zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ];
+
+@SMALLCAPS = [ a.small b.small c.small d.small e.small f.small g.small h.small i.small j.small k.small l.small m.small n.small o.small p.small q.small r.small s.small t.small u.small v.small w.small x.small y.small z.small ae.small oslash.small aring.small ];
+
+@UPPERCASE = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE Oslash Aring ];
+
+@class1 = [ A Agrave Aacute Acircumflex Atilde Adieresis Aring ];
+
+@LOWERCASE = [ a b c d e f g h i j k l m n o p q r s t u v w x y z ae oslash aring ];
+
+@LINING_FIGURES = [ zero one two three four five six seven eight nine ];
+
+# Prefix: Prefix
+feature dlig {#discretionary ligatures rock on!
+  sub s t by s_t;
+  sub c t by c_t;
+  sub s h by s_h;
+  sub c h by c_h;
+  sub s p by s_p;
+  sub s l by s_l;
+  sub c l by c_l;
+  sub s k by s_k;
+  sub c k by c_k;
+  sub c k y by c_k_y;  
+} dlig;
+
+feature liga {
+#standard ligatures
+  sub f i by fi;
+  sub f l by fl;
+  sub f b by f_b;
+  sub f h by f_h;
+  sub f k by f_k;
+} liga;
+
+feature ornm {
+ # Ornaments
+    sub bullet from [orn.001];
+} ornm;
+
+feature ss01 {
+#stylistic set 01
+  sub a a by a_a;
+  sub e e by e_e;
+  sub m by m.alt;
+  sub n by n.alt;
+  sub h by h.alt;
+  sub i by i.alt;
+  sub k by k.alt;
+  sub l by l.alt;
+  sub x by x.alt;
+  sub z by z.alt;
+  sub ampersand by ampersand.alt;
+} ss01;
+
+feature onum {
+#old style figures
+  sub @LINING_FIGURES by @OLDSTYLE_FIGURES ;
+} onum;
+
+feature smcp {
+  sub @LOWERCASE by @SMALLCAPS ;
+} smcp;
+

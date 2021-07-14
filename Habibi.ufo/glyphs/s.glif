@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="1">
+  <advance width="853"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="427" y="83" type="curve" smooth="yes" name="hr01"/>
+      <point x="227" y="83"/>
+      <point x="171" y="179"/>
+      <point x="171" y="292" type="curve" name="hr02"/>
+      <point x="119" y="292" type="line"/>
+      <point x="81" y="83" type="line"/>
+      <point x="81" y="83"/>
+      <point x="211" y="-23"/>
+      <point x="429" y="-23" type="curve" smooth="yes"/>
+      <point x="586" y="-23"/>
+      <point x="804" y="56"/>
+      <point x="804" y="256" type="curve" smooth="yes"/>
+      <point x="804" y="358"/>
+      <point x="774" y="478"/>
+      <point x="521" y="570" type="curve" smooth="yes"/>
+      <point x="324" y="642"/>
+      <point x="260" y="711"/>
+      <point x="260" y="782" type="curve" smooth="yes" name="hr03"/>
+      <point x="260" y="852"/>
+      <point x="324" y="906"/>
+      <point x="445" y="906" type="curve" smooth="yes"/>
+      <point x="560" y="906"/>
+      <point x="654" y="869"/>
+      <point x="654" y="749" type="curve"/>
+      <point x="708" y="749" type="line"/>
+      <point x="731" y="942" type="line"/>
+      <point x="731" y="942"/>
+      <point x="627" y="1013"/>
+      <point x="450" y="1013" type="curve" smooth="yes"/>
+      <point x="279" y="1013"/>
+      <point x="107" y="909"/>
+      <point x="107" y="743" type="curve" smooth="yes"/>
+      <point x="107" y="633"/>
+      <point x="161" y="519"/>
+      <point x="402" y="436" type="curve" smooth="yes"/>
+      <point x="610" y="364"/>
+      <point x="635" y="290"/>
+      <point x="635" y="224" type="curve" smooth="yes" name="hr04"/>
+      <point x="635" y="150"/>
+      <point x="562" y="83"/>
+    </contour>
+    <contour>
+      <point x="422" y="-170" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="422" y="0" type="move" name="og"/>
+    </contour>
+    <contour>
+      <point x="422" y="1700" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>
